@@ -1,5 +1,5 @@
 # TcKimlikNoSorgulama
-Php için T.C. Kimlik No Sorgulama API
+.Php için T.C. Kimlik No Sorgulama API
 
 Kullanımı:
 
